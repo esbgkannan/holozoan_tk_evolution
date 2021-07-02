@@ -14,6 +14,7 @@ cd holozoan_tk_evolution
 # decompress the files
 unzip data.zip
 unzip HelperBunny.zip
+
 ```
 
 ## Python modules
@@ -28,6 +29,7 @@ jupyter lab
 
 # leave the environment
 conda deactivate
+
 ```
 
 
