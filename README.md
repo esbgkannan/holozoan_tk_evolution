@@ -17,17 +17,7 @@ unzip HelperBunny.zip
 ```
 
 ## Python modules
-Use these commands to set up a conda environment containing the required Python 3 modules.
+Install the necessary Python 3 modules which are required to run the code. The specific versions of each module which were used in the orginal code are provided in the "requirements.txt" file.
 ```
-# create an environment
-conda create --name temp --file requirements.txt
-conda activate temp
-
-# open jupyter notebook
-jupyter lab
-
-# leave the environment
-conda deactivate
+python3 -m pip install matplotlib seaborn PyYAML numpy pandas networkx scipy requests Pillow bokeh panel
 ```
-
-
