@@ -1,5 +1,6 @@
 # Evolution of the Holozoan Tyrosine Kinome
  
+This repository serves as an archive for the code which was used for the analyses described "Evolution of the Holozoan Tyrosine Kinome". The original analyses were performed within computational notebooks using the JupyterLab framework. The contents of these notebooks can typically be viewed on the GitHub website without the need to download the entire repository. If they fail to load in your browser, try reloading.
 
 ## Operating System
 
