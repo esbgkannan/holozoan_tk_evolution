@@ -10,7 +10,7 @@ Ubuntu 18.04.4
 Use these commands to download the repository and necesary datasets.
 ```
 # download this repository
-git clone https://github.com/waylandy/holozoan_tk_evolution
+git clone https://github.com/esbgkannan/holozoan_tk_evolution
 cd holozoan_tk_evolution
 
 # decompress the files
